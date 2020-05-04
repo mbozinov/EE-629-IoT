@@ -1,0 +1,24 @@
+Servo Data Wire ⭢ D9 (required for Adafruit_TiCoServo library)
+
+Servo GND ⭢ GND
+
+Servo VCC ⭢ 5V
+
+TTP223 touch sensor data ⭢ D2 (to make use of interrupt)
+
+TTP223 touch sensor GND ⭢ GND
+
+TTP223 touch sensor VCC ⭢ 5V
+
+Neopixel data ⭢ A0 (any output pin will do)
+
+Neopixel VCC wire ⭢ 5V
+
+Petals ⭢ D3, D4, D5, D6, D10, D11 (any output pins will do)
+
+Flower ground wire ⭢ GND
+
+
+
+
+
